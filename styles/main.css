@@ -10,6 +10,7 @@
   height: 100px;
   position: relative;
   width: 100px;
+  cursor: pointer;
 }
 .face {
   font-family: "courier new", serif;
